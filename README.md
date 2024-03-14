@@ -1,6 +1,6 @@
 # Collector
 
-This is a data collection, analysis and charting application that was created by me while working as a research assistant at the University of Minnesota for the Cosmic Ray Research group headed by Phylis Fryer (https://en.wikipedia.org/wiki/Phyllis_S._Freier) and Jake Waddington. It allowed for real-time collection of data from cosmic ray detection devices.
+This is a data collection, analysis and charting application that was created by me while working as a research assistant at the University of Minnesota for the Cosmic Ray Research group headed by Phylis Fryer (https://en.wikipedia.org/wiki/Phyllis_S._Freier) and Jake Waddington. It allowed for real-time collection of data from cosmic ray detection devices. It was written in Mac Turbo Pascal.
 
 ![image](https://github.com/plaidpants/Collector/assets/8979271/6093cd85-ec1b-4256-aceb-02d9f7b7072b)
 
